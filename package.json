@@ -1,0 +1,23 @@
+{
+  "name": "number-only-three-digit",
+  "version": "1.0.0",
+  "description": "package for number digits and only number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaserdarzi/numberThreeDigit.git"
+  },
+  "keywords": [
+    "only-number",
+    "digits"
+  ],
+  "author": "Yaser Darzi <yaser.darzi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaserdarzi/numberThreeDigit/issues"
+  },
+  "homepage": "https://github.com/yaserdarzi/numberThreeDigit#readme"
+}
